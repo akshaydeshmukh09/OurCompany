@@ -1,0 +1,20 @@
+/*Banner Start*/
+.banner-image
+{
+    background-image: url(Images/Banner4.jpg);
+    height: auto;
+    width: auto;
+    background-repeat: no-repeat;
+    /*background-position: left center;*/
+    /* background-position: right center; */
+    background-position: 100% 40%;
+    background-size: cover;
+}
+/*Banner End*/
+/*Footer Start*/
+.footer
+{
+    background-color: #1A1A1A;
+    color: aliceblue;
+}
+/*Footer End*/
